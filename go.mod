@@ -1,6 +1,6 @@
 // Please read https://git.k8s.io/test-infra/docs/dep.md before updating dependencies.
 
-module k8s.io/test-infra
+module github.com/sosiouxme/test-infra
 
 // Please DO NOT add any "replace" directives to go.mod files in this repo.
 // See the following for an explanation of why this is problematic for published

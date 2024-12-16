@@ -25,7 +25,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"k8s.io/test-infra/robots/pr-creator/updater"
+	"github.com/sosiouxme/test-infra/robots/pr-creator/updater"
 	"sigs.k8s.io/prow/pkg/flagutil"
 )
 
